@@ -1,0 +1,7 @@
+flask
+Pillow
+numpy
+opencv-python
+psutil
+einops
+gdown
